@@ -1,13 +1,2 @@
 
-package aylene
 
-public Class javaPractice {
-
-public static void main( String args[]){
-
-System.out.println("this is my first java program");
-
-
-}
-
-}
